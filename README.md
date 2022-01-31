@@ -1,1 +1,1 @@
-# react_javascript_babel_root_import
+# react_javascript_without_babel_and_webpack

@@ -1,0 +1,16 @@
+{
+  "name": "react_javascript_babel_root_import",
+  "version": "1.0.0",
+  "description": "React without webpack & babel",
+  "author": "Roman Vavilov",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node": "^17.4.0",
+    "path": "^0.12.7"
+  }
+}
